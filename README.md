@@ -11,4 +11,4 @@ PLACEHOLDER: Insert link that refers to how to do authorization
 Created my own integration element. Through this I was able to define the Admin Role and Access Domain.
 
 In Okta, created a new application. With the following setup:
-![alt text](https://github.com/mavrick01/OktaSSO-NGFW/blob/main/Okta%20Setup.png"Okta Setup")
+![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Okta%20Setup.png "Okta Setup")
