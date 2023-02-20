@@ -45,7 +45,8 @@ Finally, you add the Authentication Profile under `Device->Setup->Authentication
 ![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Authentication%20Settings.png "Authentication Settings")
 
 
-
+####Azure config####
+https://learn.microsoft.com/en-us/azure/active-directory/saas-apps/paloaltoadmin-tutorial
 
 
 
