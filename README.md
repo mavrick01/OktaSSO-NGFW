@@ -31,6 +31,8 @@ Once imported edit the server Profile and change the highlighted items in red. I
 Next step is to create an Authentication Profile. NOTE: The Admin Role and Access Group Attributes
 ![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Authentication%20Profile.png "Authentication Profile Setup")
 
+*NOTE: You must have defined the SLO URL to Enable Single Logout*
+
 You also need to add in the Advanced component (usually `any`)
 ![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Authentication%20Profile%20Adv.png "Authentication Profile Setup Adavanced")
 
