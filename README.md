@@ -34,6 +34,17 @@ Next step is to create an Authentication Profile. NOTE: The Admin Role and Acces
 You also need to add in the Advanced component (usually `any`)
 ![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Authentication%20Profile%20Adv.png "Authentication Profile Setup Adavanced")
 
+I also created an Admin role that maps to the configuration of the adminrole attributes in the Okta Setup.
+![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Admin%20Role.png "Admin Role")
+
+Similarly there is a defined Access Domain that maps ot the Okta Setup:
+![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Access%20Domain.png "Access Domain")
+
+
+Finally, you add the Authentication Profile under `Device->Setup->Authentication Settings`
+![alt text](https://github.com/mavrick01/OktaSSO-NGFW/raw/main/Authentication%20Settings.png "Authentication Settings")
+
+
 
 
 
